@@ -44,3 +44,4 @@ database:
     timezone: "Asia/Shanghai" # 数据库时区
 #      debug: true # 是否开启调试模式，开启后会打印SQL日志
 port: '8000'
+LicenceKey: ''
