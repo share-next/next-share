@@ -31,6 +31,11 @@ ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户
 ```
 账号密码：admin / 123
 ```
+## 部署
+
+```bash
+curl -sSfL https://raw.githubusercontent.com/share-next/next-share/main/quick-install.sh | bash
+```
 
 ## 功能截图
 
