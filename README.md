@@ -44,10 +44,9 @@ http://ip:8000/admin
 默认账号密码：admin / 123456
 
 ### 3.修改配置
-
-| 面板地址  | 网关配置 |
+| 配置项  | 说明 |
 | ------------- | ------------- |
-| <img width="511" alt="image" src="https://github.com/user-attachments/assets/0d96cf32-8514-4641-850e-6bb38ccbd71c"> | <img width="517" alt="image" src="https://github.com/user-attachments/assets/19c7f3de-bdc1-473f-96c1-f74575895f02">  |
+| 系统设置 -> 基本设置 -> 面板地址 | 如：https://next-demo.closeoai.com 或 http:ip:8000 |
 
 
 ## 功能截图
