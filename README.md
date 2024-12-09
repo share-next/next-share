@@ -32,10 +32,23 @@ ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户
 账号密码：admin / 123
 ```
 ## 部署
-
+### 1.一键部署
 ```bash
 curl -sSfL https://raw.githubusercontent.com/share-next/next-share/main/quick-install.sh | bash
 ```
+ http://localhost:8000/admin
+### 2.登录管理端
+
+http://ip:8000/admin
+
+默认账号密码：admin / 123456
+
+### 3.修改配置
+
+| 面板地址  | 网关配置 |
+| ------------- | ------------- |
+| <img width="511" alt="image" src="https://github.com/user-attachments/assets/0d96cf32-8514-4641-850e-6bb38ccbd71c"> | <img width="517" alt="image" src="https://github.com/user-attachments/assets/19c7f3de-bdc1-473f-96c1-f74575895f02">  |
+
 
 ## 功能截图
 
