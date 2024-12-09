@@ -43,5 +43,9 @@ database:
     charset: "utf8mb4" # 数据库编码
     timezone: "Asia/Shanghai" # 数据库时区
 #      debug: true # 是否开启调试模式，开启后会打印SQL日志
+redis:
+  default:
+    address: "redis:6379"
+    db: 0
 port: '8000'
 LicenceKey: ''
