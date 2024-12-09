@@ -45,7 +45,7 @@ ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户
 
 ### 管理端
 
-### 基本管理
+### 基本管理（功能持续迭代ing
 | part  | part |
 | ------------- | ------------- |
 |<img width="1529" alt="image" src="https://github.com/user-attachments/assets/3fc8a414-57c4-40f4-b5f0-c5b634bff43e">|<img width="1481" alt="image" src="https://github.com/user-attachments/assets/e18d6554-4f71-4666-9b9b-d3a0994af5f0">|
