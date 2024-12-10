@@ -24,7 +24,7 @@ services:
     volumes:
       - ./data/redis/:/data/
   next-share:
-    image: ghcr.io/share-next/share:dev
+    image: ghcr.io/share-next/share:latest
     ports:
       - "8000:8000"
     restart: always
