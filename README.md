@@ -75,9 +75,7 @@ http://ip:8000/admin
 | <img width="369" alt="image" src="https://github.com/user-attachments/assets/28437d24-f06c-45bb-8391-d172e3de425f">| <img width="376" alt="image" src="https://github.com/user-attachments/assets/f7ecf5bb-417c-4136-baaa-180f4c3bda38">|<img width="388" alt="image" src="https://github.com/user-attachments/assets/3268ae47-f5a9-4a01-a9ec-337db7ff85ff">|
 |<img width="387" alt="image" src="https://github.com/user-attachments/assets/3e600ce4-a17f-4f9b-9577-dff380d72442">|<img width="389" alt="image" src="https://github.com/user-attachments/assets/ee2a60b6-80e3-41a0-9c78-28884456190d">|<img width="376" alt="image" src="https://github.com/user-attachments/assets/26f770b4-ddf7-4f4d-9efd-430c36342e37">|
 
-本项目为订阅制，加群或者客服vx: `xhs10121`，进行试用，基础版：300/月，自部署，无任何使用限制
-
-另外：支持订阅源码，详情咨询客服
+本项目为订阅制，加群或者客服vx: `xhs10121`，进行试用
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/d155ee3a-8aff-4769-b3b0-87b3bc55c394">
 
