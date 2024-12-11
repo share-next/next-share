@@ -63,9 +63,12 @@ http://ip:8000/admin
 ### 管理端
 
 ### 基本管理（功能持续迭代ing
-| part  | part |
+| 首页  | 号池管理 |
 | ------------- | ------------- |
 |<img width="1529" alt="image" src="https://github.com/user-attachments/assets/3fc8a414-57c4-40f4-b5f0-c5b634bff43e">|<<img width="1508" alt="image" src="https://github.com/user-attachments/assets/33d6910f-27ab-47cb-a7a1-491ce24bb69f">|
+
+| 用户管理  | 订单管理 |
+| ------------- | ------------- |
 |<img width="1520" alt="image" src="https://github.com/user-attachments/assets/d51be8fa-f7bf-4397-af09-f46a5af7038e">|<img width="1510" alt="image" src="https://github.com/user-attachments/assets/768e22d5-3570-4e9e-a5a1-7ef74f8743c9">|
 
 #### 系统配置
