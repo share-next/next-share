@@ -19,7 +19,7 @@ ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户
 
 ### 面板端
 
-地址：https://next-demo.closeoai.com/services
+地址：https://next-demo.closeoai.com
 
 ```
 账号密码：test@qq.com / 123
