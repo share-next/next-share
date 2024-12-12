@@ -19,8 +19,8 @@ get
 
 | **位置** | **参数名** | **描述** |
 |----------|------------|----------|
-| query    | ticket     | 服务票据 (Service Ticket) |
-| query    | service    | 目标服务地址 |
+| query    | ticket     | 透传登录入参 |
+| query    | service    | 透传登录入参 |
 
 #### 出参
 
