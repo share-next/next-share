@@ -3,12 +3,16 @@
 ### 一键登录接口：
 
 ```
-/service-api/cas/callback?ticket=${key}
+/service-api/cas/callback?ticket=${key}&service=${service}
 ```
 
 ### 认证源需实现接口
 
-入参：位置：query 参数名：ticket
+入参：
+
+* 位置：query 参数名：ticket
+* 位置：query 参数名：service
+
 
 出参：
 ```
