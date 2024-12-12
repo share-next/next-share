@@ -3,8 +3,14 @@
 ### 1、CAS登录接口：
 
 ```
-http://${next-share部署域名}:8000/service-api/cas/callback?ticket=${key}&service=${service}
+http://${next-share部署域名}:8000/service-api/cas/callback?ticket=${key}&service=${service}&clientId=${clientId}
 ```
+
+| **位置** | **参数名** | **描述** |
+|----------|------------|----------|
+| query    | ticket     | 必填，业务方生成的凭证，用于验证用户身份。 |
+| query    | service    | 选填，业务方自定义的参数，可根据需要传递特定服务标识。 |
+| query    | clientId   | 选填，由 next-share 系统生成，用于支持多回调地址的场景，区分不同客户端回调，默认回调default地址 |
 
 ### 2、认证源需实现接口
 
@@ -17,10 +23,7 @@ get
 
 #### 入参
 
-| **位置** | **参数名** | **描述** |
-|----------|------------|----------|
-| query    | ticket     | 透传登录入参 |
-| query    | service    | 透传登录入参 |
+透传登录入参
 
 #### 出参
 
