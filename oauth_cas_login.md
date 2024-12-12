@@ -28,7 +28,7 @@ get
 |------------|-----------|------------------------|
 | status     | Boolean   | 登录状态，`true` 表示成功 |
 | message    | String    | 提示信息，如 "登录成功" |
-| userId     | String    | 用户唯一 ID            |
+| userId     | String    | 用户唯一ID，注意：next会以 service + userId 作为唯一标识存储|
 | avatar     | String    | 用户头像（可选）       |
 | showName   | String    | 用户展示名称（可选）   |
 
