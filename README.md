@@ -53,13 +53,16 @@ http://ip:8000/admin
 ## 功能截图
 
 ### 用户端
-| 选车  | 订阅 |
+
+
+
+| 选车  | 无感 |
 | ------------- | ------------- |
-| <img width="1486" alt="image" src="https://github.com/user-attachments/assets/8d659d01-a1c9-41f9-ac39-a0587376560d"> | <img width="1368" alt="image" src="https://github.com/user-attachments/assets/20b13e06-c0e2-404c-a465-b1547c925c1f">  |
+| <img width="1486" alt="image" src="https://github.com/user-attachments/assets/8d659d01-a1c9-41f9-ac39-a0587376560d"> | <img width="1724" alt="image" src="https://github.com/user-attachments/assets/393c668e-0e03-4762-bc47-81dce49c99b3" /> |
 
 | 登录/注册  | 在线支付 |
 | ------------- | ------------- |
-| <img width="1486" alt="image" src="https://github.com/user-attachments/assets/ba145358-45a0-4d22-82b3-5c7a9e15e806">| <img width="1368" alt="image" src="https://github.com/user-attachments/assets/531fc9ff-c336-4714-bcbc-2ae2f769886e">|
+| <img width="1486" alt="image" src="https://github.com/user-attachments/assets/ba145358-45a0-4d22-82b3-5c7a9e15e806">| <img width="1724" alt="image" src="https://github.com/user-attachments/assets/20b13e06-c0e2-404c-a465-b1547c925c1f"> |
 
 ### 管理端
 
