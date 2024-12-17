@@ -8,6 +8,15 @@ git clone -b main --depth=1  https://github.com/share-next/next-share.git next-s
 ## 进入目录
 cd next-share
 
+# 生成随机密码
+RANDOM_PASSWORD=$(openssl rand -base64 12)
+
+# 使用 sed 命令替换 docker-compose.yml 文件中的 MySQL 密码
+sed -i "s/MYSQL_ROOT_PASSWORD: \"zspk3GKNEHwdfnph\"/MYSQL_ROOT_PASSWORD: \"$RANDOM_PASSWORD\"/" docker-compose.yml
+
+# 使用 sed 命令替换 config.yaml 文件中的数据库密码
+sed -i "s/pass: \"zspk3GKNEHwdfnph\"/pass: \"$RANDOM_PASSWORD\"/" config.yaml
+
 chmod 755 ./deploy.sh
 
 docker compose pull
