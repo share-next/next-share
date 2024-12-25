@@ -19,7 +19,7 @@ http://${next-share部署域名}:8000/service-api/cas/callback?ticket=${key}&ser
 无限制
 
 #### 方法
-get
+post
 
 #### 入参
 
