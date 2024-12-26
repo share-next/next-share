@@ -1,5 +1,5 @@
 # next-share
-ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户、订阅、支付、无感换车等功能
+ChatGPT镜像站，对接ChatGPT官网全部功能，包含完整用户、订阅、支付、无感换车等功能
 
 ## 功能简介
 
@@ -13,6 +13,12 @@ ChatGPT商业版镜像站，对接ChatGPT官网全部功能，包含完整用户
 - [x] 支持模型映射，可将4o映射到gpts，临时提高模型智商
 - [ ] 免登录体验对话
 - [ ] 同时在线设备限制
+
+## 联系我们
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/4623c5fd-33f1-4bed-8669-09388b625c16">
+
+加群或者客服vx: `xhs10121`
 
 
 ## 在线体验
@@ -82,7 +88,4 @@ http://ip:8000/admin
 | <img width="369" alt="image" src="https://github.com/user-attachments/assets/28437d24-f06c-45bb-8391-d172e3de425f">| <img width="376" alt="image" src="https://github.com/user-attachments/assets/f7ecf5bb-417c-4136-baaa-180f4c3bda38">|<img width="388" alt="image" src="https://github.com/user-attachments/assets/3268ae47-f5a9-4a01-a9ec-337db7ff85ff">|
 |<img width="387" alt="image" src="https://github.com/user-attachments/assets/3e600ce4-a17f-4f9b-9577-dff380d72442">|<img width="389" alt="image" src="https://github.com/user-attachments/assets/ee2a60b6-80e3-41a0-9c78-28884456190d">|<img width="376" alt="image" src="https://github.com/user-attachments/assets/26f770b4-ddf7-4f4d-9efd-430c36342e37">|
 
-本项目为订阅制，加群或者客服vx: `xhs10121`，进行试用
-
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/d155ee3a-8aff-4769-b3b0-87b3bc55c394">
 
